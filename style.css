@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  margin-top: 10px;
+}
+
+body {
+  text-align: center;
+  background-color: rgb(18, 18, 20);
+  ;
+}
+
+h1 {
+  margin-top: 50px;
+  color: #f7f7f7
+}
+
+a {
+  color: #8257e5;
+}
+
+ul {
+  list-style: none;
+}
+
+p {
+  color: #bcbcbc;
+}
+
+img {
+  width: 50%;
+  border-radius: 10px;
+}
+
+.backTo {
+  color: #745ea9;
+}
+
+.contacts {
+  color: #8d43a6;
+}
