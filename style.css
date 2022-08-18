@@ -2,12 +2,13 @@
   margin: 0;
   padding: 0;
   margin-top: 10px;
+  font-family: 'Roboto', sans-serif;
 }
 
 body {
   text-align: center;
   background-color: rgb(18, 18, 20);
-  ;
+
 }
 
 h1 {
@@ -21,6 +22,12 @@ a {
 
 ul {
   list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+ul li {
+  padding-left: 14px;
 }
 
 p {
@@ -28,14 +35,15 @@ p {
 }
 
 img {
-  width: 50%;
+  width: 300px;
   border-radius: 10px;
+
 }
 
 .backTo {
-  color: #745ea9;
+  color: #ffffff;
 }
 
 .contacts {
-  color: #8d43a6;
+  color: #8257e5;
 }
